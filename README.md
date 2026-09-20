@@ -31,8 +31,8 @@ Higgsfield will be used to turn the strategy into campaign visuals and creative 
 
 ## Goal
 
-Turn a small business with an underdeveloped digital presence into a clear, cohesive, launch-ready brand — within a single day.
+Turn a small business with an underdeveloped digital presence into a clear, cohesive, launch-ready brand within a single day.
 
 ## Status
 
-Concept stage — planned for the 10X Your Brand Hackathon at Istanbul Ignited by Slush'D.
+Concept stage - planned for the 10X Your Brand Hackathon at Istanbul Ignited by Slush'D.
