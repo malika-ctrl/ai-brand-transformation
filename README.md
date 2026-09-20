@@ -1,38 +1,31 @@
 # AI Brand Transformation
 
-An AI-powered workflow designed to help small local businesses strengthen their digital brand and marketing.
+A hackathon project exploring how AI can help small local businesses improve their branding and online presence.
 
 ## The Problem
 
-Many small businesses have great products but lack the resources, data, or marketing teams needed to build a strong digital brand.
+A lot of small businesses have good products, but their online presence doesn't really show what makes them special.
 
 ## The Idea
 
-The project uses AI to analyze a business, its customers, competitors, and market trends to identify opportunities for stronger positioning.
+The idea is to choose a real small business and use AI to understand its customers, competitors, and current branding. Based on that research, we'll find what could be improved and build a new direction for the brand.
 
-The insights are then transformed into:
+The final result could include a new brand concept, campaign, social media content, visuals, and a simple landing page.
 
-- Brand positioning
-- Campaign concepts
-- Marketing copy
-- Visual content
-- Social media assets
-- A landing page
-
-## Hackathon Workflow
+## How We'll Build It
 
 **Research → Insights → Strategy → Creative → Launch**
 
 Apify will be used to collect relevant public web data and competitor insights.
 
-Manus AI will analyze the information, identify opportunities, and coordinate the brand transformation workflow.
+Manus AI will analyze the research, find patterns and opportunities, and help turn them into a brand and marketing strategy.
 
-Higgsfield will be used to turn the strategy into campaign visuals and creative content.
+Higgsfield will be used to create campaign visuals and video content based on the new direction.
 
-## Goal
+## The Goal
 
-Turn a small business with an underdeveloped digital presence into a clear, cohesive, launch-ready brand within a single day.
+Start the day with an existing small business and finish with a visible before-and-after transformation that could actually be useful to the business.
 
 ## Status
 
-Concept stage - planned for the 10X Your Brand Hackathon at Istanbul Ignited by Slush'D.
+Currently an idea for the 10X Your Brand Hackathon at Istanbul Ignited by Slush'D.
