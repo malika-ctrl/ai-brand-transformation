@@ -32,4 +32,4 @@ Currently an idea for the 10X Your Brand Hackathon at Istanbul Ignited by Slush'
 
 ## Team
 malika-ctrl 
-akksdeniz
+aksdeniz
