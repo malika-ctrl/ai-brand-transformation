@@ -29,3 +29,7 @@ Start the day with an existing small business and finish with a visible before-a
 ## Status
 
 Currently an idea for the 10X Your Brand Hackathon at Istanbul Ignited by Slush'D.
+
+## Team
+malika-ctrl 
+akksdeniz
